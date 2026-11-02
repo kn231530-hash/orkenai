@@ -1,0 +1,6 @@
+{
+  "name": "ORKEN AI - Cinematic 30s Promotional Video",
+  "description": "A stunning 30-second cinematic promotional video bringing the ORKEN AI glowing orb assistant to life with electric blue 3D lighting, futuristic sound effects, and intelligent enterprise capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
